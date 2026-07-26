@@ -1,0 +1,11 @@
+name: SpecialWeapons
+version: 1.0.0
+main: com.specialweapons.SpecialWeapons
+api-version: '1.21'
+author: EvolutionSMP
+description: Op-only marking of any item to be kept safe on death.
+
+commands:
+  sw:
+    description: Mark or unmark the item in your hand as protected.
+    usage: /sw <add|remove>
